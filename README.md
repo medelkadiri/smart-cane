@@ -2,11 +2,11 @@
 
 
 
-The purpose of the smart cane project is to develop a device mounted on a cane that helps visually impaired people **avoid obstacles** **while walking**, and **alerts relatives**(partner, friends, family members, etc.) if the **cane user falls off**.
+The purpose of the **smart cane** project is to develop a **device mounted on a cane** that **helps visually impaired people** **avoid obstacles** **while walking**, and **alerts relatives**(partner, friends, family members, etc.) if the **cane user falls off**.
 
 
 
-There are **two sensors** used: 
+There are **two sensors** used:
 
 
 
@@ -28,8 +28,3 @@ There are **two sensors** used:
 * Multiple piezo buzzers \& audio indicators 12mmx9.5mm 5 V, 85 dB, Through Hole, Indicator.
 * Multiple LEDs, resistors, transistors, and jumper wires.
 * 1x Breadboard.
-
-
-
-
-
